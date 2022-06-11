@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  
+   <link rel="stylesheet" href="style.css"/>
+ </head>
+  
+ <body>
+   <div class="header">
+  <h1>Pizza Shoppe</h1>
+   </div>
+     
+   <div>
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3fod7BdDSN8IDqiy39lFye0A50x7pJhPYw&usqp=CAU"/>
+  
+     <p>Come eat some pizza!</p>
+   
+     <ol>
+     <li>Cheese pizza</li>
+     <li>Sausage Pizza</li>
+     <li>Veggie Pizza</li>
+     <li>Pepperoni Pizza</li>
+     </ol>
+   </div>
+  
+   <div class="footer">
+   <h6>Copyright Muad Noor 2022</h6>
+   </div>
+  </body>
+</html>
